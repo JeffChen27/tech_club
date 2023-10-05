@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tech_club/static/css/main.b782468d.css",
+    "main.js": "/tech_club/static/js/main.9afeac33.js",
+    "static/media/kids.png": "/tech_club/static/media/kids.a0c4f05fe75e9a3cae38.png",
+    "static/media/logo.png": "/tech_club/static/media/logo.4bc8f6ababffb6d0cbed.png",
+    "index.html": "/tech_club/index.html",
+    "main.b782468d.css.map": "/tech_club/static/css/main.b782468d.css.map",
+    "main.9afeac33.js.map": "/tech_club/static/js/main.9afeac33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b782468d.css",
+    "static/js/main.9afeac33.js"
+  ]
+}
